@@ -7,3 +7,7 @@ lime
 cherry
 watermelon
 tomato (IT IS A FRUIT!!)
+raspberry
+strawberry
+blueberry
+tomato (to reiterate: IT IS A FRUIT!!)
